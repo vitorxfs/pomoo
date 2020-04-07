@@ -1,24 +1,13 @@
-# web-vue
+# Pomoo
+### A Pomodoro Timer for web desktop.
 
-## Project setup
-```
-npm install
-```
+<img src="./assets/pomoo.gif" width="500px" />
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Ready to use
+### vitorxfs.github.io/pomoo
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Running Locally
+- Clone or download this repository
+- run ``` npm install```
+- run ``` npm run serve```
+- access it on ```localhost:8080```
