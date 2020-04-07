@@ -46,12 +46,12 @@ export default {
       pomoStates: {
         focus: {
           text: 'focus',
-          time: 5,//(25 * 60),
+          time: (25 * 60),
           phrase: "You shall not procrastinate!"
         },
         shortBreak: {
           text: 'short break',
-          time: 5,//(5 * 60),
+          time: (5 * 60),
           phrase: "Get up and stretch a little bit!"
         },
         longBreak: {
