@@ -4,7 +4,7 @@
 <img src="./assets/pomoo.gif" width="500px" />
 
 ## Ready to use
-[vitorxfs.github.io/pomoo]
+[vitorxfs.github.io/pomoo](https://vitorxfs.github.io/pomoo/)
 
 ## Running Locally
 - Clone or download this repository
